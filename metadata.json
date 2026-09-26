@@ -1,0 +1,6 @@
+{
+  "name": "DocuConvert",
+  "description": "Convert Word DOCX to PDF and PDF to Word DOCX with a mobile drag-and-drop interface, in-app preview, and batch conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
